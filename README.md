@@ -1,2 +1,3 @@
-# modern-game-engine-651y
-A game engine project for modern development workflows
+# Modern Game Engine 651Y
+
+A game engine project for modern development workflows.
